@@ -58,7 +58,8 @@ end-to-end for demonstration purposes.
 | Recall |  0.5481 |
 | F1-Score | 0.5925 |
 
-
+**Confusion Matrix**
+![Image](confusion_matrix.png)
 **Observations:**
 - Contract type is one of the strongest predictors of churn — month-to-month customers churn far
   more than those on one- or two-year contracts.
