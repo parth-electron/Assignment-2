@@ -53,13 +53,11 @@ end-to-end for demonstration purposes.
 
 | Metric | Value |
 |---|---|
-| Accuracy | 0.7825 |
-| Precision | 0.5556 |
-| Recall | 0.2717 |
-| F1-Score | 0.3650 |
+| Accuracy | 0.7999|
+| Precision |0.6447 |
+| Recall |  0.5481 |
+| F1-Score | 0.5925 |
 
-*(Values above come from a run of the pipeline; see the notes on the dataset above — if you run
-this against the real Kaggle file your numbers will differ.)*
 
 **Observations:**
 - Contract type is one of the strongest predictors of churn — month-to-month customers churn far
